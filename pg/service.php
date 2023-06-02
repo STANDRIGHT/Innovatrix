@@ -235,7 +235,7 @@
             </div>
           </div>
         </div>
-
+<!-- 
         <div class="col-md-6">
           <div class="single-inner-service single-inner-service-2 trans-1">
             <div class="service-icon bg-24">
@@ -290,7 +290,7 @@
               <a href="#" class="theme-btn-16">Learn More <img src="assets/img/icons/angle-inner.svg" alt=""></a>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
       <!-- <div class="space30"></div> -->

@@ -5285,8 +5285,10 @@ img.service-shape1 {
 }
 
 .single-service-advise {
-  background: #F8F8FC;
+  /* background: #F8F8FC; */
+  background-color: #f5f4ec;
   border-radius: 8px;
+  border: 1px solid #E1E3E8;
   padding: 30px;
 }
 @media (max-width: 767px) {

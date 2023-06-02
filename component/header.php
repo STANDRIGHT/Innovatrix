@@ -17,7 +17,7 @@
                     <li class="dropdown-parrent"><a href="#">Services</a>
                       <ul class="theme-dropdown">
                         <li><a href="Mobile-app-development-details">Mobile Development</a></li>
-                        <li><a href="web-application-details">Web Development</a></li>
+                        <li><a href="web-application-details">Web Application</a></li>
                         <li><a href="ux-ui-strategy-details">UI UX Design</a></li>
                         <li><a href="digital-strategy-details">Digital Stategies</a></li>
                       </ul>
