@@ -60,7 +60,7 @@
             <h3>Help Center</h3>
             <div class="footer-menu">
               <ul>
-                <li><a href="#">Support</a></li>
+                <li><a href="../pg/404.php">Support</a></li>
                 <li><a href="#">Refunds</a></li>
 
               </ul>
