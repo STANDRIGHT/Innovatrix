@@ -1,174 +1,3 @@
-<!--=====Mobile header start=======-->
-<div class="mobile-header mobile-header-4 d-lg-none">
-  <div class="container-fluid">
-    <div class="col-12">
-      <div class="mobile-header-elements">
-        <div class="mobile-logo">
-          <a href="index.html"><img src="assets/img/logo/site-logo-6.svg" alt="" /></a>
-        </div>
-        <div class="mobile-nav-icon">
-          <i class="fa-solid fa-bars"></i>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="mobile-sidebar">
-  <div class="menu-close">
-    <i class="fa-solid fa-xmark"></i>
-  </div>
-  <div class="mobile-nav">
-    <ul class="mobile-nav-list">
-      <li>
-        <a href="#">Home</a>
-        <ul class="sub-menu">
-          <li>
-            <a href="#">Multipage</a>
-            <ul class="sub-menu">
-              <li><a href="index.html">Tax Consulting</a></li>
-              <li><a href="index-2.html">Financial Advisor</a></li>
-              <li><a href="index-3.html">Low Consulting</a></li>
-              <li><a href="index-4.html">Business Consulting</a></li>
-              <li><a href="index-5.html">Insurance Consulting</a></li>
-              <li><a href="index-rtl-1.html">RTL</a></li>
-            </ul>
-          </li>
-          <li>
-            <a href="#">Landing Page</a>
-            <ul class="sub-menu">
-              <li><a href="single-index-1.html">Tax Consulting</a></li>
-              <li><a href="single-index-2.html">Financial Advisor</a></li>
-              <li><a href="single-index-3.html">Low Consulting</a></li>
-              <li><a href="single-index-4.html">Business Consulting</a></li>
-              <li>
-                <a href="single-index-5.html">Insurance Consulting</a>
-              </li>
-              <li><a href="single-index-rtl-1.html">RTL</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-
-      <li>
-        <a href="#">Service</a>
-        <ul class="sub-menu">
-          <li><a href="service-1.html">Service Default</a></li>
-          <li><a href="service-2.html">Service 2</a></li>
-          <li><a href="service-3.html">Service Right</a></li>
-          <li><a href="service-4.html">Service Left</a></li>
-          <li><a href="single-service-1.html">Service Details </a></li>
-          <li><a href="single-service-2.html">Details Right</a></li>
-        </ul>
-      </li>
-
-      <li>
-        <a href="#">Pages</a>
-        <ul class="sub-menu">
-          <li><a href="about-1.html">About 1</a></li>
-          <li><a href="about-2.html">About 2</a></li>
-          <li><a href="blog-1.html">Classic Blog</a></li>
-          <li><a href="blog-mesonry-1.html">Mesonry 1</a></li>
-          <li><a href="blog-mesonry-2.html">Mesonry 2</a></li>
-          <li><a href="blog-mesonry-3.html">Mesonry 3</a></li>
-          <li><a href="single-1.html">Single Right</a></li>
-          <li><a href="single-2.html">Single Default</a></li>
-          <li><a href="single-3.html">Single Left</a></li>
-          <li><a href="single-4.html">Single Fuild</a></li>
-          <li><a href="service-1.html">Service Default</a></li>
-          <li><a href="service-2.html">Service 2</a></li>
-          <li><a href="service-3.html">Service Right</a></li>
-          <li><a href="service-4.html">Service Left</a></li>
-          <li><a href="single-service-1.html">Service Details </a></li>
-          <li><a href="single-service-2.html">Details Right</a></li>
-          <li><a href="price-1.html">Pricing 1</a></li>
-          <li><a href="price-2.html">Pricing 2</a></li>
-          <li><a href="contact-1.html">Contact 1</a></li>
-          <li><a href="contact-2.html">Contact 2</a></li>
-          <li><a href="case-study-1.html">Case Study 1</a></li>
-          <li><a href="case-study-2.html">Case Study 2</a></li>
-          <li><a href="single-case-study-1.html">Single Case</a></li>
-          <li><a href="case-study-3.html">Case Study Right</a></li>
-          <li><a href="case-study-4.html">Case Study Left</a></li>
-          <li><a href="testimonial-1.html">Testimonial</a></li>
-          <li><a href="faq-1.html">FAQ</a></li>
-          <li><a href="team-1.html">Team</a></li>
-          <li><a href="career-1.html">Carrer 1</a></li>
-          <li><a href="shop-1.html">Shop 1</a></li>
-          <li><a href="shop-2.html">Shop 2</a></li>
-          <li><a href="shop-3.html">Shop 3</a></li>
-          <li><a href="single-shop-1.html">Shop Single</a></li>
-          <li><a href="cart.html">Cart</a></li>
-          <li><a href="cart-empty.html">Cart Empty</a></li>
-          <li><a href="wishlist.html">Wishlist</a></li>
-          <li><a href="singup.html">Sign Up</a></li>
-          <li><a href="signin.html">Sign In</a></li>
-          <li><a href="forgot.html">Forgot</a></li>
-          <li><a href="404.html">404 Error</a></li>
-        </ul>
-      </li>
-
-      <li>
-        <a href="#">Case Study</a>
-        <ul class="sub-menu">
-          <li><a href="case-study-1.html">Case Study 1</a></li>
-          <li><a href="case-study-2.html">Case Study 2</a></li>
-          <li><a href="case-study-3.html">Case Study 3</a></li>
-          <li><a href="case-study-4.html">Case Study 4</a></li>
-          <li><a href="single-case-study-1.html">Single Case</a></li>
-        </ul>
-      </li>
-
-      <li>
-        <a href="#">Shop</a>
-        <ul class="sub-menu">
-          <li><a href="forgot.html">Forgot</a></li>
-          <li><a href="shop-1.html">Shop 1</a></li>
-          <li><a href="shop-2.html">Shop 2</a></li>
-          <li><a href="shop-3.html">Shop 3</a></li>
-          <li><a href="single-shop-1.html">Shop Single</a></li>
-          <li><a href="cart.html">Cart</a></li>
-          <li><a href="cart-empty.html">Cart Empty</a></li>
-          <li><a href="wishlist.html">Wishlist</a></li>
-          <li><a href="singup.html">Sign Up</a></li>
-        </ul>
-      </li>
-
-      <li>
-        <a href="#">Contact</a>
-        <ul class="sub-menu">
-          <li><a href="contact-1.html">Contact 1</a></li>
-          <li><a href="contact-2.html">Contact 2</a></li>
-        </ul>
-      </li>
-    </ul>
-
-    <div class="mobile-contact">
-      <div class="single-footer">
-        <h3>Get in touch</h3>
-
-        <div class="footer-contact">
-          <div class="single-contact">
-            <div class="contact-icon">
-              <img src="assets/img/icons/contact-phone4.svg" alt="" />
-            </div>
-            <a href="#">USA: +91 02 2585 0556</a>
-            <a href="#">UK: +61 02 2585 0556</a>
-          </div>
-        </div>
-        <div class="footer-contact">
-          <div class="single-contact">
-            <div class="contact-icon">
-              <img src="assets/img/icons/contact-email4.svg" alt="" />
-            </div>
-            <a href="#">Contacthelp@Demoui.co</a>
-            <a href="#">Info@consultia.co</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!--=====Mobile header end=======-->
 
 
 
@@ -216,19 +45,25 @@
           <h3>We assume that there are some random conclusions that your certainly will agree with us.</h3>
           <p> First, having a mobile application may be one of the most important thing you can do to build your brand. Second, a mobile application must be people-friendly, designed to give users a pleasant and effective experience and keep them returning for more. Third, the mobile application must deliver for you, the client.That is exactly where we excel. And, that is exactly how we can help you to grow your business. We specialize in development of award-winning mobile applications for Android and iOS devices. And, we do it extremely well, if we do say so ourselves.</p>
 
-          <p>
-            By engaging with employees virtually, companies can stay
+          <p>By engaging with employees virtually, companies can stay
             connected and informed with their people, no matter where they
             are. This can help improve morale and keep employees feeling
             like they're part of the team, even if they're not in the same
-            room.
-          </p>
+            room.</p>
+
           <div class="space30"></div>
           <div class="single-blog-img">
             <img src="assets/img/services/animate1.gif" alt="" />
           </div>
-          <!-- <div class="space40"></div> -->
 
+          <div class="space40"></div>
+          
+          <p>We recognize the distinctions between smartphones and tablets, as well as the dynamic nature of the mobile landscape. The digital universe serves as our playing field. We invite you to join us if you wish to completely participate in what has become a daily occurrence for world citizens. We can teach you the way; let's create a fantastic mobile application together.</p>
+
+          <p>Our mobile application development business is based on effective communication and consultation techniques, extensive testing, and ongoing process improvement. We are committed to excellence, and we endeavor to ensure that every screen, regardless of its size, will appear incredible, operate efficiently, and effectively convey your message.</p>
+
+          <p>We invest a tremendous amount of time and effort in developing mobile solutions that function equally well on all devices. Our objective is to create engaging experiences for the end user, while maintaining the excellence and maintainability that our business clients have come to expect.</p>
+            
           <!-- <h3 style="text-align:center" data-aos="fade-up" data-aos-duration="800" class="aos-init aos-animate"><span class="heilight-left">Creat</span> An App to replace paper Business Cards</h3> -->
           <div class="space30"></div>
           <div class="row">
@@ -374,23 +209,25 @@
 <div class="space30"></div>
 
 
-
 <!--=====Subscribe start=======-->
 <div class="subscribe-4 bg12 padding-90 inner-font-1 inner-subscribe">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="heading4 white-heading inner-heading no-margin-heading">
-          <h2>Want to join our team?</h2>
-          <p>We are always looking for talented people, We here to help you to open your bright future.</p>
+          <h2>Want to connect with us?</h2>
+          <p> We are always looking forward to have connect with our team of experts.</p>
         </div>
       </div>
       <div class="col-lg-5 col-md-6 offset-lg-1">
         <div class="sunscribe-form">
           <div class="subscribe-from-wrap">
-            <form action="#">
-              <input type="email" placeholder="Email Address">
-              <button type="submit" name="button">Subscribe Now <img src="assets/img/icons/arrow-up-right.svg" alt=""></button>
+            <form action="Subscribe" method="post">
+              <input type="email" name="email" placeholder="Email Address" />
+              <button type="submit" name="submit">
+                Subscribe Now
+                <img src="assets/img/icons/arrow-up-right.svg" alt="" />
+              </button>
             </form>
           </div>
         </div>

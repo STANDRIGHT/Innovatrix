@@ -6486,10 +6486,15 @@ img.shape-right-bottom {
 }
 
 .testimonial-2 .testimonial-arrows .slick-arrow button:hover {
-  background: #FDC24C;
-  /* background-color: var(--darken); */
-  transition: all 0.3s;
-  border-color: #FDC24C;
+  /*background: #FDC24C;
+  */background-color: var(--normal);
+  /*background-color: var(--darken);
+  */transition: all 0.3s;
+  border-color: #ffffff;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
 }
 
 .testimonial-3 .single-testimonial {
@@ -6951,6 +6956,7 @@ img.contact-shape1 {
   z-index: 2;
   padding-left: 90px;
   height: 154px;
+  margin-top: 10px;
 }
 
 .contact-box-icon {
@@ -6998,7 +7004,7 @@ img.contact-shape1 {
 }
 .main-form input::placeholder, .main-form textarea::placeholder {
   color: #000000;
-  font-weight: 800;
+  font-weight: 500;
 }
 
 .single-faq {
@@ -8051,7 +8057,8 @@ li.multi-dropdown-parrent:hover > ul.multi-dropdown.theme-dropdown {
   position: fixed;
   height: 100%;
   width: 100%;
-  background: #5C5B79;
+  /* background: #5C5B79; */
+  background-color: var(--darken);
   z-index: 99;
   padding: 40px 30px;
   left: -100%;
@@ -8086,6 +8093,7 @@ li.multi-dropdown-parrent:hover > ul.multi-dropdown.theme-dropdown {
   padding: 10px 0;
   display: block;
 }
+
 
 ul.mobile-nav-list {
   margin-bottom: 40px;
@@ -8179,7 +8187,7 @@ span.multi-drop-icon {
 
 ul.mobile-nav-list {
   max-height: 500px;
-  overflow-y: scroll;
+  /* overflow-y: scroll; */
 }
 
 .product-image {
