@@ -218,7 +218,7 @@
         <div class="col-md-6">
           <div class="heading4 inner-heading no-margin-heading">
             <h4 class="font-f-3 weight-700">Have more questions?</h4>
-            <p>If you have additional questions, please contact us for a thorough discussion and clarification.</p>
+            <p>If you have additional questions, please contact us </p>
           </div>
         </div>
         <div class="col-md-6 text-md-right">

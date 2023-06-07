@@ -21,7 +21,7 @@
         <div class="mr50">
           <div class="heading2 no-margin-heading">
             <small class="heading-top inner-heading-top"><img src="assets/img/icons/hands.svg" alt="" />Our stories
-              how we establish our company.</small>
+        </small>
             <h2>
               We develop Project Specific Software Solutions with Expertise.
             </h2>
@@ -65,7 +65,7 @@
             <small class="heading-top inner-heading-top"><img src="assets/img/icons/hands.svg" alt="" />Our Vision
               help us to improve our quality.</small>
             <h2>
-              <?= $Company["name"] ?> Concept is a software development and information technology consulting firm.
+              <?= $Company["name"] ?> is a software development and information technology consulting firm.
             </h2>
             <p>Over the years, we have honed our skills in inventive design and application deployment. We have acquired our alliances with significant actors in the information and communications technology (ICT) industry by developing our competencies over time. Today, <?= $Company["name"] ?> employs programmers and software architects who are experts in developing cutting-edge web solutions.</p>
 
@@ -110,14 +110,14 @@
             </div>
             <div class="team-content bg-18">
               <h5>Jerry Chukwudi</h5>
-              <h6>Ceo Innovatrix</h6>
+              <h6>Program Manager</h6>
             </div>
           </div>
          
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>Jerry Chukwudi</h5>
-              <h6>Ceo Innovatrix</h6>
+              <h6>Program Manager</h6>
               <div class="space10"></div>
               <!-- <p>Key Highlights</p>   -->
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt=""> Plan, develop, implement and direct the organization’s operational and fiscal function and performance.</p>   
@@ -140,14 +140,14 @@
             </div>
             <div class="team-content bg-18">
               <h5>Divine Diamond</h5>
-              <h6>Manager Innovatrix</h6>              
+              <h6>Chief Technical Officer</h6>              
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>Divine Diamond</h5>
-              <h6>Manager Innovatrix</h6>
+              <h6>Chief Technical Officer</h6>
               <div class="space10"></div>
               <!-- <p>Key Highlights</p>   -->
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Controlling and evaluating IT and electronic data operations Managing IT staff</p>   
@@ -174,14 +174,14 @@
             </div>
             <div class="team-content bg-18">
               <h5>Udenze Chidera Lilian</h5>
-              <h6>HR Manager Innovatrix</h6>
+              <h6>Project Manager</h6>
             </div>
           </div>
 
           <div class="team-sides team-back-side">
           <div class="team-content bg-18">
             <h5>Udenze Chidera Lilian</h5>
-              <h6>HR Manager Innovatrix</h6>
+              <h6>Project Manager</h6>
               <div class="space10"></div>
               <!-- <p>Key Highlights</p>   -->
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Develop training materials and performance management programs to help ensure employees understand their job responsibilities</p>   
@@ -207,14 +207,14 @@
             </div>
             <div class="team-content bg-18">
               <h5>Victor Ifeanyi</h5>
-              <h6>Innovatrix Senior Developer</h6>
+              <h6>Senior Software Developer</h6>
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>Victor Ifeanyi</h5>
-              <h6>Innovatrix Senior Developer</h6>
+              <h6>Senior Software Developer</h6>
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>
@@ -245,14 +245,14 @@
             </div>
             <div class="team-content bg-18">
               <h5>cliford standright</h5>
-              <h6>Innovatrix LAMP stack Developer</h6>              
+              <h6>LAMP stack Developer</h6>              
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>cliford standright</h5>
-              <h6>Innovatrix LAMP stack Developer</h6>   
+              <h6>LAMP stack Developer</h6>   
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>
@@ -283,14 +283,14 @@
             </div>
             <div class="team-content bg-18">
               <h5>Kelvin Enwerem</h5>
-              <h6>Innovatrix MEAN stack Developer</h6>                 
+              <h6>MEAN stack Developer</h6>                 
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>Kelvin Enwerem</h5>
-              <h6>Innovatrix MEAN stack Developer</h6>   
+              <h6>MEAN stack Developer</h6>   
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>
@@ -394,7 +394,7 @@
             <img src="assets/img/icons/service-11.png" alt="" />
           </div>
           <h3>Mobile App Development</h3>
-          <p>We develop Super Mobile Apps that delivers amazing user experience. The UI of your app extends your brand to create a full-fledged identity.</p>
+          <p>We develop Mobile Apps that delivers amazing user experience. The UI of your app extends your brand to create a full-fledged identity.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
@@ -403,7 +403,7 @@
             <img src="assets/img/icons/service-12.png" alt="" />
           </div>
           <h3>SEO and Digital Strategy</h3>
-          <p>We have the experience to help with most any digital strategy. Our cross-functional team has vast experiences with Business Strategies and optimal SEO Services.</p>
+          <p>We are experienced to help with most any digital strategy. Our cross-functional team has vast experiences with Business Strategies and optimal SEO Services.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
@@ -412,7 +412,7 @@
             <img src="assets/img/icons/service-13.png" alt="" />
           </div>
           <h3>Software Consultancy</h3>
-          <p>Creating Applications in the digital universe requires a plan. Consulting is part of our business and we are always here to help.</p>
+          <p>Creating Applications in the digital universe requires a plan. Consulting is part of our business and we are available for consulting</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
@@ -430,7 +430,7 @@
             <img src="assets/img/icons/service-15.png" alt="" />
           </div>
           <h3>UI/UX Strategy</h3>
-          <p>Users expect your app to work perfectly every time. Part of that requires the foresight to ensure performance of the application. We create interfaces that have a natural look and feel but are still beautiful.</p>
+          <p>Our UI/UX expertise ensures a very user friendly interface and design </p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4">
@@ -439,7 +439,7 @@
             <img src="assets/img/icons/service-16.png" alt="" />
           </div>
           <h3>Web Application</h3>
-          <p>Due to the diversity of available devices and operating systems, mobile displays reign supreme. We design for all four corners, regardless of operating system and screen dimensions.</p>
+          <p>Due to the diversity of available devices and operating systems, mobile displays is paramount We design for all four corners, regardless of operating system and screen dimensions.</p>
         </div>
       </div>
     </div>
@@ -578,7 +578,7 @@
                   How long does software development take?
                 </h2>
                 <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="faq-heading1" data-bs-parent="#faqs">
-                  <p>We cannot possibly answer this question precisely because there are projects finished in 2 to 3 weeks, but there are also tasks that take several years to complete. </p>
+                  <p>Softwares vary in size, functionality and features . This determines the length and period of development.Some projects takes an average of 2 to 3 weeks, while some others takes several years to complete. </p>
 
                   <p>To provide you with a precise answer, we have to evaluate the project complexity and the work scope. Knowing this information, we can provide you with the estimated time frame.
                   </p>
@@ -597,7 +597,7 @@
                   Should I be familiar with the technical details to <br> work with you?
                 </h2>
                 <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="faq-heading3" data-bs-parent="#faqs">
-                  <p>There is absolutely no need for this. After all, you do not have to know medical nuances when seeking a dentist’s services. You do not have to be an expert in software development because, actually, we are. We are ready to explain to you all unclear moments and the essence of all stages while working on the project.</p>
+                  <p> Since, you do not have to know medical nuances when seeking a dentist’s services. You do not have to be an expert in software development because, actually, we are. We are ready to explain to you all unclear moments and the essence of all stages while working on the project.</p>
 
                   <p>On your part, all you need is a clear vision of what objectives you want to achieve using the desired software product. Therefore, you just have to focus on your needs, and we will help you make them a reality.</p>
                 </div>

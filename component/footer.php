@@ -6,7 +6,7 @@
         <div class="single-footer mr50">
           <a href="index.html" class="footer-logo"> <img src="assets/img/logo/site-logo-3.svg" alt=""></a>
           <div class="space20"></div>
-          <p>Yet convinced? Let's create something outstanding together.</p>
+          <p>Convinced? Let's create something outstanding together.</p>
           <div class="footer-contact">
             <h3>Get in touch</h3>
             <div class="single-contact">
@@ -33,10 +33,10 @@
           <h3>Our Services</h3>
           <div class="footer-menu">
             <ul>
-              <li><a href="Mobile-app-development-details">Mobile Development</a></li>
+              <li><a href="Mobile-app-development-details">Mobile App Development</a></li>
               <li><a href="web-application-details">Web Application</a></li>
               <li><a href="ux-ui-strategy-details">UI UX Design</a></li>
-              <li><a href="digital-strategy-details">Digital Stategies</a></li>
+              <li><a href="digital-strategy-details">Digital Strategies</a></li>
             </ul>
           </div>
         </div>
@@ -68,7 +68,7 @@
       </div>
       <div class="row align-items-center copyright2">
         <div class="col-lg-6">
-          <p>© 2022 <?= $Company["name"] ?>. All Rights Reserved.</p>
+          <p>© 2021 <?= $Company["name"] ?>. All Rights Reserved.</p>
         </div>
         <div class="col-lg-6 text-right">
           <div class="social social2">
