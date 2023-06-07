@@ -129,8 +129,9 @@
                   <i class="fa-light fa-phone"></i>
                 </div>
                 <div class="quick_contact_content">
-                  <small>Hotline 24/7</small>
+                  <!-- <small>Hotline 24/7</small> -->
                   <a href="tel:<?= $Company["phone"] ?>"><?= $Company["phone"] ?></a>
+                  <a href="tel:<?= $Company["phone2"] ?>"><?= $Company["phone2"] ?></a>
                 </div>
               </div>
             </div>

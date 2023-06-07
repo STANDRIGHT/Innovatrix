@@ -13,8 +13,8 @@
               <div class="contact-icon">
                 <img src="assets/img/icons/contact-phone2.svg" alt="">
               </div>
-              <a href="tel:<?= $Company["phone"] ?>">Nigeria:<?= $Company["phone"] ?></a>
-              <a href="tel:<?= $Company["phone"] ?>">Nigeria:<?= $Company["phone2"] ?></a>
+              <a href="tel:<?= $Company["phone"] ?>"><?= $Company["phone"] ?></a>
+              <a href="tel:<?= $Company["phone"] ?>"><?= $Company["phone2"] ?></a>
             </div>
           </div>
           <div class="footer-contact">

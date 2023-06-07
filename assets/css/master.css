@@ -1313,12 +1313,13 @@ background: radial-gradient(circle, rgba(165, 150, 86, 0.397) 0%, rgba(255,255,2
   background-position: center center;
   background-size: cover;
 }
+/* <img src="assets/img/innovatrix/23.jpg" alt=""> */
 
 .bg7 {
   position: relative;
   z-index: 2;
-  background: url("../img/bg/bg5.jpg") no-repeat;
-  background-position: center center;
+  background: url("../img/innovatrix/23.jpg") no-repeat;
+  background-position: top center;
   background-size: cover;
 }
 .bg7:after {
@@ -1401,7 +1402,8 @@ background: radial-gradient(circle, rgba(165, 150, 86, 0.397) 0%, rgba(255,255,2
 }
 
 .bg-18 {
-  background: #DCE0F3 !important;
+  background: #DCE0F3 ;
+  background-color: var(--backgound)!important;
 }
 
 .bg-19 {
@@ -4566,7 +4568,7 @@ button.search-icon {
 }
 
 .theme-btn-5 {
-  font-weight: 600;
+  font-weight: 800;
   font-size: 16px;
   line-height: 20px;
   text-align: center;
@@ -4582,6 +4584,7 @@ button.search-icon {
   height: 2px;
   width: 0;
   background: #F23936;
+  background: var(--normal);
   left: 0;
   top: -12px;
   transition: all 0.3s;
@@ -4598,9 +4601,13 @@ button.search-icon {
 }
 .theme-btn-5:hover {
   color: #F23936;
+  color: var(--normal);
+
 }
 .theme-btn-5:hover:after {
-  background: #F23936;
+  color: #F23936;
+  background: var(--normal);
+
 }
 .theme-btn-5:hover:before {
   width: 100%;
@@ -5333,6 +5340,7 @@ img.service-shape1 {
 
 .inner-quote {
   background: #E7E8F4;
+  background-color: var(--backgound);
   border-radius: 8px;
   padding: 30px;
   margin-top: 40px;
@@ -5788,7 +5796,7 @@ img.circle-text {
 }
 
 .team-1 .single-team .team-content {
-  background: #FFF9F9;
+  background: #b33737;
   border-radius: 0 0 8px 8px;
 }
 .team-1 .single-team .team-img {
@@ -5820,7 +5828,10 @@ img.circle-text {
   border-radius: 8px;
 }
 .team-2 .team-back-side {
-  background-color: #DCE0F3;
+  /* background-color: #DCE0F3; */
+  /* background-color:red; */
+  background-color: var(--backgound);
+  /* background-color: var(--normal); */
   transform: rotateY(180deg);
   border-radius: 8px;
   display: flex;
@@ -6949,13 +6960,14 @@ img.contact-shape1 {
 
 .single-contact-box {
   background: #fff;
+  /* background-color: tan; */
   box-shadow: 0px 5px 30px rgba(9, 8, 64, 0.05);
   border-radius: 10px;
   padding: 30px;
   position: relative;
   z-index: 2;
   padding-left: 90px;
-  height: 154px;
+  height: 180px;
   margin-top: 10px;
 }
 

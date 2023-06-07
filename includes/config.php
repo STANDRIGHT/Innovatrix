@@ -3,11 +3,11 @@ session_start();
 
         $Company = [
         "name"=> "Innovatrix",
-        "address"=> "33 Democracy Crescent, Abuja, FCT, Nigeria",
-        "email"=> "innovatrix.ng.com",
+        "address"=> "NO:33 Democracy Crescent, Gaduwa Estate, Gudu FCT Abuja, Nigeria",
+        "email"=> "official@innovatrix.ng",
         "website"=> "https://www.innovatrix.ng",
-        "phone"=> "+2347064486121",
-        "phone2"=>"+2347064672661"
+        "phone"=> "+2349110727973",
+        "phone2"=>"+2349110727974"
         
     ];
 

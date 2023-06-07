@@ -1,4 +1,3 @@
-
 <!--=====Inner hero Start=======-->
 <div class="inner-1 bg-13" id="home">
   <div class="container">
@@ -26,23 +25,16 @@
             <h2>
               We develop Project Specific Software Solutions with Expertise.
             </h2>
+            <p>At <?= $Company["name"] ?> we attend and respond to the delight of our customers by not only meeting but also exceeding their requirements. Our methodology is pragmatic, results-driven, and governed by a strategic understanding of the business objectives of our clients.</p>
+
+            <p>We have been in business since 2021 and have extensive technical experience as well as in-depth knowledge of the industries we serve. We specialize in assisting our partners in increasing revenue and productivity through the use of high-quality software development tools and technologies. We collaborate with our partners to overcome their specific business challenges, from providing necessary software development resources to managing the entire development life cycle. We become your technology partner for every development project and provide full-service support.
             <p>
-              At <?= $Company["name"] ?> we attend to and respond to the delight of our customers by not only meeting but also exceeding their requirements. Our methodology is pragmatic, results-driven, and governed by a strategic understanding of the business objectives of our clients.
-            </p>
-            <p>
-              Excel spreadsheet to bottom line your project. To solve this
-              problem, Violet Labs is developing a cloud-based platform that
-              can act as a single source of truth, collecting the data from
-              all the tools and making them easily accessible across teams.
-              Hoag likened the product to Zapier, which uses APIs to talk to
-              different tools.
-            </p>
           </div>
         </div>
       </div>
       <div class="col-lg-6">
         <div class="about-bg-main-img position-relative ml50">
-          <img src="assets/img/about/about23.png" alt="" />
+          <img src="assets/img/innovatrix/31.jpg" alt="innovatrix" />
           <div class="corner-right-bottom-shape2 position-absolute">
             <img src="assets/img/shapes/shape-right-bottom2.png" alt="" />
           </div>
@@ -59,7 +51,9 @@
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="about-bg-main-img position-relative mr50">
-          <img src="assets/img/about/about24.png" alt="" />
+          <!-- <img src="assets/img/innovatrix/34.jpg" alt="innovatrix" /> -->
+          <img src="assets/img/innovatrix-team/dera.jpeg" alt="" style="transform: scaleX(-1);"/>
+
           <div class="corner-right-bottom-shape2 position-absolute">
             <img src="assets/img/shapes/shape-right-bottom2.png" alt="" />
           </div>
@@ -73,11 +67,11 @@
             <h2>
               <?= $Company["name"] ?> Concept is a software development and information technology consulting firm.
             </h2>
-            <p>Over the past year, we have honed our skills in inventive design and application deployment. We have acquired our alliances with significant actors in the information and communications technology (ICT) industry by developing our competencies over time. Today, <?= $Company["name"] ?> employs programmers and software architects who are experts in developing cutting-edge web solutions.</p>
+            <p>Over the years, we have honed our skills in inventive design and application deployment. We have acquired our alliances with significant actors in the information and communications technology (ICT) industry by developing our competencies over time. Today, <?= $Company["name"] ?> employs programmers and software architects who are experts in developing cutting-edge web solutions.</p>
 
             <p>With our unique, intelligent, and user-friendly website designs, our professional, creative, and business-savvy team knows how to help our clients become genuine leaders in their respective fields. We have amassed significant experience and recruited only the most qualified candidates for employment.</p>
 
-            <p>We provide reasonably-priced, bespoke web solutions for individuals and businesses of all sizes and industries. Web Design, Web application development, Ecommerce Solutions, Web Hosting Services, Domain Name Registration, Intranet and Extranet, Internet marketing, Search Engine Optimization, and Promotional Services are our primary areas of expertise. Whatever your requirements are, we will fulfill them by providing you with a website of exceptional quality.</p>
+            <p>We provide reasonably-priced, web solutions for individuals and businesses of all sizes and industries. Web Design, Web application development, Ecommerce Solutions, Web Hosting Services, Domain Name Registration, Intranet and Extranet, Internet marketing, Search Engine Optimization, and Promotional Services are our primary areas of expertise. Whatever your requirements are, we will fulfill them by providing you with a website of exceptional quality.</p>
           </div>
         </div>
       </div>
@@ -85,6 +79,253 @@
   </div>
 </div>
 <!--=====About end=======-->
+
+
+
+
+
+<!--=====Team start=======-->
+<div class="team-2 section-padding2 inner-font-1">
+
+  <!--=====Team hero Start=======-->
+  <div class="row">
+        <div class="col-md-7 m-auto">
+          <div class="heading2 white-heading text-center ">
+            <small data-aos="fade-up" data-aos-duration="600" class="heading-top"><img src="assets/img/icons/good.png"
+                alt="">We Are Here to provide solutions</small>
+            <h2 style="color:black" data-aos="fade-up" data-aos-duration="800"><span class="heilight-left" >Meet</span> our team <br>of Experts</h2>
+          </div>
+        </div>
+      </div>
+  <!--=====Team hero end=======-->
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
+        <div class="single-team">
+          <div class="team-sides team-font-side">
+            <div class="team-img">
+              <img src="assets/img/innovatrix-team/jerry.jpg" alt="" />
+            </div>
+            <div class="team-content bg-18">
+              <h5>Jerry Chukwudi</h5>
+              <h6>Ceo Innovatrix</h6>
+            </div>
+          </div>
+         
+          <div class="team-sides team-back-side">
+            <div class="team-content bg-18">
+              <h5>Jerry Chukwudi</h5>
+              <h6>Ceo Innovatrix</h6>
+              <div class="space10"></div>
+              <!-- <p>Key Highlights</p>   -->
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt=""> Plan, develop, implement and direct the organization’s operational and fiscal function and performance.</p>   
+
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Act as a strategic partner by developing and implementing the company’s plans and programs.</p>
+              
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Communicate effectively and establish credibility throughout the organization and with the Board of Directors as an effective developer of solutions to business challenges.</p>
+
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Executive Presence and ability maintain calm demeanor in high stress environments.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+        <div class="single-team">
+          <div class="team-sides team-font-side">
+            <div class="team-img">
+              <img src="assets/img/innovatrix-team/divine.jpg" alt="" />
+            </div>
+            <div class="team-content bg-18">
+              <h5>Divine Diamond</h5>
+              <h6>Manager Innovatrix</h6>              
+            </div>
+          </div>
+
+          <div class="team-sides team-back-side">
+            <div class="team-content bg-18">
+              <h5>Divine Diamond</h5>
+              <h6>Manager Innovatrix</h6>
+              <div class="space10"></div>
+              <!-- <p>Key Highlights</p>   -->
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Controlling and evaluating IT and electronic data operations Managing IT staff</p>   
+
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Design, develop, implement and coordinate systems, policies and procedures.</p>
+              
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt=""> collaborate closely with staff members every day to monitor all the projects they perform and identify any potential areas for improvement.</p>
+
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Highly organized and detail-oriented and Excellent analytical and problem-solving skills.</p>
+              <div class="space10"></div>
+
+              <a class="theme-btn-5"  id="drop" href="contact">Contact Us </a>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-md-6">
+        <div class="single-team">
+          <div class="team-sides team-font-side">
+            <div class="team-img">
+              <img src="assets/img/innovatrix-team/dera.jpeg" alt="" />
+            </div>
+            <div class="team-content bg-18">
+              <h5>Udenze Chidera Lilian</h5>
+              <h6>HR Manager Innovatrix</h6>
+            </div>
+          </div>
+
+          <div class="team-sides team-back-side">
+          <div class="team-content bg-18">
+            <h5>Udenze Chidera Lilian</h5>
+              <h6>HR Manager Innovatrix</h6>
+              <div class="space10"></div>
+              <!-- <p>Key Highlights</p>   -->
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Develop training materials and performance management programs to help ensure employees understand their job responsibilities</p>   
+
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Maintain company organization charts and employee directory and Partner with management to ensure strategic HR goals are aligned with business initiatives.</p>
+              
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Ensure job descriptions are up to date and compliant companies and clients agreed regulations</p>
+             
+              <div class="space10"></div>
+
+              <a class="theme-btn-5"  id="drop" href="contact">Contact Us </a>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+        <div class="single-team">
+          <div class="team-sides team-font-side">
+            <div class="team-img">
+              <img src="assets/img/innovatrix-team/victor.jpg" alt="" />
+            </div>
+            <div class="team-content bg-18">
+              <h5>Victor Ifeanyi</h5>
+              <h6>Innovatrix Senior Developer</h6>
+            </div>
+          </div>
+
+          <div class="team-sides team-back-side">
+            <div class="team-content bg-18">
+              <h5>Victor Ifeanyi</h5>
+              <h6>Innovatrix Senior Developer</h6>
+              <div class="space10"></div>
+              <div class="team-socials">
+                <ul>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Linked in" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Facebook" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Instagram" href="#"><i class="fa-brands fa-instagram"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="TikTok" href="#"><i class="fa-brands fa-tiktok"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+     
+      <div class="col-lg-4 col-md-6">
+        <div class="single-team">
+          <div class="team-sides team-font-side">
+            <div class="team-img">
+              <img src="assets/img/innovatrix-team/clifford.jpeg" alt="" />
+            </div>
+            <div class="team-content bg-18">
+              <h5>cliford standright</h5>
+              <h6>Innovatrix LAMP stack Developer</h6>              
+            </div>
+          </div>
+
+          <div class="team-sides team-back-side">
+            <div class="team-content bg-18">
+              <h5>cliford standright</h5>
+              <h6>Innovatrix LAMP stack Developer</h6>   
+              <div class="space10"></div>
+              <div class="team-socials">
+                <ul>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Linked in" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Facebook" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Instagram" href="#"><i class="fa-brands fa-instagram"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="TikTok" href="#"><i class="fa-brands fa-tiktok"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+        <div class="single-team">
+          <div class="team-sides team-font-side">
+            <div class="team-img">
+              <img src="assets/img/innovatrix-team/clifford.jpeg" alt="" />
+            </div>
+            <div class="team-content bg-18">
+              <h5>Kelvin Enwerem</h5>
+              <h6>Innovatrix MEAN stack Developer</h6>                 
+            </div>
+          </div>
+
+          <div class="team-sides team-back-side">
+            <div class="team-content bg-18">
+              <h5>Kelvin Enwerem</h5>
+              <h6>Innovatrix MEAN stack Developer</h6>   
+              <div class="space10"></div>
+              <div class="team-socials">
+                <ul>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Linked in" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Facebook" href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="Instagram" href="#"><i class="fa-brands fa-instagram"></i></a>
+                  </li>
+                  <li>
+                    <a data-bs-toggle="tooltip" title="TikTok" href="#"><i class="fa-brands fa-tiktok"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+<!--=====Team end=======-->
+
+
+
+
+
+
 
 <!--=====Counter start=======-->
 <div class="counter-4 inner-counter-4 inner-font-1 section-padding" style="
@@ -124,7 +365,7 @@
       </div>
       <div class="col-lg-3 col-6">
         <div class="single-couter-3">
-          <h3><span class="up-counter">50</span>%</h3>
+          <h3><span class="up-counter">85</span>%</h3>
           <p>Our Winning Award</p>
         </div>
       </div>
@@ -334,54 +575,39 @@
             <div id="faqs">
               <div class="single-faq">
                 <h2 class="faq-heading" id="faq-heading1" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                  What is the best way to give a PowerPoint presentation?
+                  How long does software development take?
                 </h2>
                 <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="faq-heading1" data-bs-parent="#faqs">
-                  <p>
-                    When it comes to business, listen to Henry David
-                    Thoreau: things usually don’t happen overnight –
-                    instead, to find success takes a lot of time, effort,
-                    and courage.
+                  <p>We cannot possibly answer this question precisely because there are projects finished in 2 to 3 weeks, but there are also tasks that take several years to complete. </p>
+
+                  <p>To provide you with a precise answer, we have to evaluate the project complexity and the work scope. Knowing this information, we can provide you with the estimated time frame.
                   </p>
                 </div>
               </div>
               <div class="single-faq">
                 <h2 class="faq-heading collapsed" id="faq-heading2" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                  Why does Bill Gates want to buy TikTok?
+                  How do you guarantee the product quality?
                 </h2>
                 <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="faq-heading2" data-bs-parent="#faqs">
-                  <p>
-                    When it comes to business, listen to Henry David
-                    Thoreau: things usually don’t happen overnight –
-                    instead, to find success takes a lot of time, effort,
-                    and courage.
-                  </p>
+                  <p>We work in a short iteration mode and regularly test the work results, taking into account all customer preferences and the target audience reaction. This approach allows us to provide our customers with high-quality products, observing the specified deadlines. Quality is our top priority.</p>
                 </div>
               </div>
               <div class="single-faq">
                 <h2 class="faq-heading collapsed" id="faq-heading3" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                  What is the process to become a full-stack web developer?
+                  Should I be familiar with the technical details to <br> work with you?
                 </h2>
                 <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="faq-heading3" data-bs-parent="#faqs">
-                  <p>
-                    When it comes to business, listen to Henry David
-                    Thoreau: things usually don’t happen overnight –
-                    instead, to find success takes a lot of time, effort,
-                    and courage.
-                  </p>
+                  <p>There is absolutely no need for this. After all, you do not have to know medical nuances when seeking a dentist’s services. You do not have to be an expert in software development because, actually, we are. We are ready to explain to you all unclear moments and the essence of all stages while working on the project.</p>
+
+                  <p>On your part, all you need is a clear vision of what objectives you want to achieve using the desired software product. Therefore, you just have to focus on your needs, and we will help you make them a reality.</p>
                 </div>
               </div>
               <div class="single-faq">
                 <h2 class="faq-heading collapsed" id="faq-heading4" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                  How can I be the next Mark Zuckerberg or Bill Gates?
+                  What information do you need from me<br> to start work?
                 </h2>
                 <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="faq-heading4" data-bs-parent="#faqs">
-                  <p>
-                    When it comes to business, listen to Henry David
-                    Thoreau: things usually don’t happen overnight –
-                    instead, to find success takes a lot of time, effort,
-                    and courage.
-                  </p>
+                  <p>Share the details of your project – like scope, timeframes, or business challenges you’d like to solve.</p>
                 </div>
               </div>
             </div>

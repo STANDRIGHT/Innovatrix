@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!--=====About start=======-->
 <div class="about-inner inner-1 bg-13 section-padding">
   <div class="container">
@@ -57,63 +51,84 @@
           </div>
 
           <div class="space40"></div>
-          
+
           <p>We recognize the distinctions between smartphones and tablets, as well as the dynamic nature of the mobile landscape. The digital universe serves as our playing field. We invite you to join us if you wish to completely participate in what has become a daily occurrence for world citizens. We can teach you the way; let's create a fantastic mobile application together.</p>
 
           <p>Our mobile application development business is based on effective communication and consultation techniques, extensive testing, and ongoing process improvement. We are committed to excellence, and we endeavor to ensure that every screen, regardless of its size, will appear incredible, operate efficiently, and effectively convey your message.</p>
 
+          <div class="single-blog-img">
+            <img src="assets/img/services/wire9.jpg" alt="personal-01.png" />
+          </div>
+
           <p>We invest a tremendous amount of time and effort in developing mobile solutions that function equally well on all devices. Our objective is to create engaging experiences for the end user, while maintaining the excellence and maintainability that our business clients have come to expect.</p>
-            
+
           <!-- <h3 style="text-align:center" data-aos="fade-up" data-aos-duration="800" class="aos-init aos-animate"><span class="heilight-left">Creat</span> An App to replace paper Business Cards</h3> -->
           <div class="space30"></div>
+
+
           <div class="row">
-            <div class="col-lg-6">
+            <h3>Web App Development</h3>
+            <p>Mobile app development presents distinct challenges compared to the creation of a website with numerous features. The App Store and Google Play Store have compliance requirements that could prohibit your app from being approved for sale in their respective stores. Apps are a competitive landscape, and understanding the latest trends in product psychology and design patterns can help your app'stick' with users. We take all of this into consideration and place ourselves in your and your customers' position when developing apps with a human-first philosophy.</p>
+
+            <p>Our team is comprised of experts in a variety of development platforms, and we understand which technologies are optimal for various business models and concepts. As your technology collaborator, we are here to advise you on the most appropriate instrument for the task at hand.</p>
+            <div class="col-lg-12">
               <div class="single-service-advise">
                 <div class="conter-icon" style="text-align:center;">
-                  <img src="assets/img/icons/service-11.png" alt="">
-                  <br>
-                  <br>
+                  <img src="assets/img/innovatrix-svg/new.png" alt="">
                 </div>
-                <h4 style="text-align:center;">iOS</h4>
+                <h4 style="text-align:center;">iOS app development</h4>
+                <p>Native iOS app development, or writing code with Swift, adheres to Apple's guidelines and results in the most robust, scalable, refined, and seamless final product. For this reason, we've assembled a team of senior Swift developers capable of constructing even the most intricate native iPhone and iPad applications.</p>
                 <p>Our creative team understands what makes the iPad, iPhone, and iPod Touch operate, and we work within the operating system's intuitive interface, high security, and extensive features. Let us put our expertise to work for you by developing an application that is compatible with these iconic mobile devices.</p>
+                <p>We take great pride in ensuring that your final product functions as elegantly as it appears, both in terms of the visible code and what occurs behind the scenes. We endeavor for 'pixel perfection' when implementing your designs. As patrons, we have high standards and only accept the finest. Why should your application be unique? We accomplish this by integrating our designers and developers.</p>
               </div>
             </div>
 
-            <div class="col-lg-6">
+            <div class="space40"></div>
+
+
+            <div class="col-lg-12">
               <div class="single-service-advise">
                 <div class="conter-icon" style="text-align:center;">
-                  <img src="assets/img/icons/service-14.png" alt="">
-                  <br>
-                  <br>
+                  <img src="assets/img/innovatrix-svg/android.png" alt="">
                 </div>
-                <h4 style="text-align:center;">Android (Native)</h4>
-                <p>The numbers are staggering. This is the world leader that supports mobile devices in more than 190 countries throughout the world. More than a million new users join the ranks each day! You cannot ignore this operating system, and we can help you capitalize on the benefits of having the best possible Android app that you can get.</p>
+                <h4 style="text-align:center;">Android app development.</h4>
+                <p><?= $Company["name"] ?>'s native Android app developers are equipped to build Android apps from-scratch in the Kotlin language. The best Android apps follow Google-led design guidelines and principles, which we bring to each Android product we work on.</p>
+                <p>It is essential to test your Android app on a variety of devices and operating systems to ensure that the user experience is consistent across the fragmented Android ecosystem, as there are so many different Android devices in the world. With an emphasis on user-friendliness, fidelity to the intended design, and regular testing, our senior Android developers ensure that your final product is enchanting</p>
               </div>
             </div>
           </div>
 
+
           <div class="space30"></div>
+
 
           <div class="row">
             <div class="col-lg-12">
               <div class="single-service-advise">
                 <div class="conter-icon" style="text-align:center;">
-                  <img src="assets/img/icons/service-13.png" alt="">
-                  <br>
-                  <br>
+                <img src="assets/img/innovatrix-svg/flutter.png" alt="">
                 </div>
-                <h4 style="text-align:center;">Hybrid/Cross-Platgorms</h4>
-                <p>We speak the languages: All of them. Because each mobile application project has different requirements, we will analyze your individual situation and establish the framework and structure that best meets your needs. We are as comfortable with Windows Mobile as we are with iOS, and our developers are experts at integrating your desires.</p>
+                <h4 style="text-align:center;">Cross-platform flutter app development.</h4>
+                <p>While many cross-platform development languages promise more than they can deliver - and are typically used by web development specialists who would love to be able to sell mobile app services as well - we’ve become extremely impressed with Google’s own cross-platform language, Flutter.</p>
+                <p>As a result, we have expanded our service offerings to include Flutter as a cross-platform programming language that we can offer to clients when a native app experience is not required. If cross-platform development is a business requirement, or if your User Interface and feature package are straightforward enough that we believe Flutter can manage them adequately, we will recommend this path as a terrific cost-saving alternative.</p>
+                <p>Cross-platform app development with Flutter allows your app to be distributed to both Apple and Android app stores with a single code-base: bringing the time (and cost) to develop your app down by anywhere from 30-50%.</p>
               </div>
             </div>
           </div>
 
+          <div class="space30"></div>
+
+          <h3>Enterprise mobile app development.</h3>
+          <p>When developing a mobile app for an established business, our first responsibility is to analyze your business requirements and determine the optimal technology platform we can offer. Do you need native iPhone or Android development? Or, is there a way to solve your problem with a cross-platform mobile application, or even a responsive web application, in order to reduce costs and deploy your solution to multiple devices simultaneously?</p>
+          <p>Then, following this with a SolutionLab blueprinting and roadmapping session, our team of consultants ensures your feature set is mapped out in meticulous detail with a precise comprehension of the price per feature that can be customized to your budget.</p>
+          <p>Partnering with <?= $Company["name"] ?> means quality, value, and attentiveness, which has earned us the title of Southeast's most highly regarded app development company. Schedule a call to discuss your assignment with us today.</p>
 
           <!-- <div class="inner-quote">
-              <p>“ Success is not final; failure is not fatal: it is the
-                courage to continue that counts.”</p>
-              <a href="#">Winston Churchill.</a>
-            </div> -->
+            <h3>Enterprise mobile app development.</h3>
+            <p>“ Success is not final; failure is not fatal: it is the
+              courage to continue that counts.”</p>
+            <a href="#">Winston Churchill.</a>
+          </div> -->
         </div>
       </div>
 

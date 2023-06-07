@@ -21,13 +21,24 @@
       <div class="col-lg-6">
         <div class="single-contact-box">
           <div class="contact-box-icon">
-            <img src="assets/img/icons/contact-1.svg" alt="" />
+            <img src="assets/img/icons/call.png" alt="" />
           </div>
           <div class="contact-box-content">
             <p class="font-f-3">CALL US</p>
-            <a href="tel:<?= $Company["phone"] ?>">Nigeria:<br><?= $Company["phone"] ?></a>
+            <a href="tel:<?= $Company["phone2"] ?>"><?= $Company["phone2"] ?></a>
+          </div>              
+        </div>
+      </div>
 
 
+      <div class="col-lg-6">
+        <div class="single-contact-box">
+          <div class="contact-box-icon">
+            <img src="assets/img/icons/whatapp.png" alt="" />
+          </div>          
+          <div class="contact-box-content">
+            <p class="font-f-3">WHATSAPP US</p>
+            <a href="https://wa.me/<?= $Company["phone"]?>?text=Hello, <?= $Company["name"]?>%20I%20need%20a%20professional%20looking%20website%20for%20my%20Business%20Thanks,"><?= $Company["phone"] ?></a>
           </div>
         </div>
       </div>
@@ -35,7 +46,7 @@
       <div class="col-lg-6">
         <div class="single-contact-box">
           <div class="contact-box-icon">
-            <img src="assets/img/icons/contact-2.svg" alt="" />
+            <img src="assets/img/icons/mall.png" alt="" />
           </div>
           <div class="contact-box-content">
             <p class="font-f-3">EMAIL US</p>
@@ -44,14 +55,14 @@
         </div>
       </div>
 
-      <div class="col-lg-12">
-        <div class="single-contact-box">
+      <div class="col-lg-6">
+        <div class="single-contact-box" >
           <div class="contact-box-icon">
-            <img src="assets/img/icons/contact-3.svg" alt="" />
+            <img src="assets/img/icons/address.png" alt="address.png" />
           </div>
           <div class="contact-box-content">
             <p class="font-f-3">HEADQUARTERS</p>
-            <a href=""><?= $Company["address"] ?></a>
+            <a href="https://goo.gl/maps/ZSYzcw7ot98TRnJ49"><?= $Company["address"] ?></a>
           </div>
         </div>
       </div>
@@ -60,8 +71,15 @@
 </div>
 <!--=====Contact Boxes End=======-->
 
+
+
+
+
+
+
+
 <!--=====Contact Form Start=======-->
-<div class="main-contact-form section-padding">
+<div class="main-contact-form section-padding" id="return">
   <div class="container">
     <div class="row">
       <div class="col-lg-4">
@@ -71,31 +89,35 @@
           <p>We assist companies all around the world in utilizing full-cycle software development services to differentiate themselves from the competition.</p>
         </div>
       </div>
-      <div class="col-lg-8">
+      <div class="col-lg-8 " >
         <div class="main-form">
-          <form action="pcontact.php" method="post">
+          <form action="processor/pcontact.php" method="POST">
+            <!-- <div id="add_err"></div> -->
+              <a href="#drop"></a>
+
+            <?php if(isset($_SESSION["msg"])){  echo $_SESSION["msg"]; session_unset(); } ?>
             <div class="row">
               <div class="col-lg-6">
-                <input type="text" name="fname" placeholder="First Name" />
+                <input type="text" name="fname" id="name" placeholder="First Name" />
               </div>
               <div class="col-lg-6">
-                <input type="text" name="lname" placeholder="Last Name" />
+                <input type="text" name="lname" id="lname" placeholder="Last Name" />
               </div>
               <div class="col-12" id="#top">
-                <input type="email" name="email" placeholder="Email Address" />
+                <input type="email" name="email" id="email" placeholder="Email Address" />
               </div>
               <div class="col-lg-6">
-                <input type="text" name="service" placeholder="Service Interested In" />
+                <input type="text" name="service" id="service" placeholder="Service Interested In" />
               </div>
               <div class="col-lg-6">
-                <input type="text" name="subject" placeholder="Subject" />
+                <input type="text" name="subject" id="subject" placeholder="Subject" />
               </div>
               <div class="col-12">
-                <textarea name="message" id="" cols="30" rows="5" placeholder="Tell Us About Your Projects"></textarea>
+                <textarea name="message" id="message" cols="30" rows="5" placeholder="Tell Us About Your Projects"></textarea>
               </div>
               <div class="col-12">
-                <a href="#top" name="submit" id="" class="theme-btn-11">Submit</a>
-                <!-- <button type="submit" name="submit" class="full-btn theme-btn-11">Submit</button> -->
+                <!-- <a href="pcontact.php" name="submit" id="submit" class="theme-btn-11">Submit</a> -->
+                <button type="submit" name="submit" id="submit" class="full-btn theme-btn-11">Submit</button>
               </div>
             </div>
           </form>
@@ -105,6 +127,8 @@
   </div>
 </div>
 <!--=====Contact Form End=======-->
+
+
 
 
 
@@ -136,84 +160,55 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="single-faq2">
-          <h3>What should entrepreneurs never do?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
+          <h3> How long does software development take?
+          </h3>
+          <p>We cannot possibly answer this question precisely because there are projects finished in 2 to 3 weeks, but there are also tasks that take several years to complete. </p>
+
+          <p>To provide you with a precise answer, we have to evaluate the project complexity and the work scope. Knowing this information, we can provide you with the estimated time frame.
           </p>
         </div>
 
         <div class="single-faq2">
-          <h3>Are you too poor to start a business?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
-          </p>
+          <h3>How do you guarantee the product quality?</h3>
+          <p>We work in a short iteration mode and regularly test the work results, taking into account all customer preferences and the target audience reaction. This approach allows us to provide our customers with high-quality products, observing the specified deadlines. Quality is our top priority.</p>
         </div>
 
         <div class="single-faq2">
-          <h3>Do developers really code from scratch in a hackathon?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
-          </p>
+          <h3>Should I be familiar with the technical details to work with you?</h3>
+          <p>There is absolutely no need for this. After all, you do not have to know medical nuances when seeking a dentist’s services. You do not have to be an expert in software development because, actually, we are. We are ready to explain to you all unclear moments and the essence of all stages while working on the project.</p>
+
+          <p>On your part, all you need is a clear vision of what objectives you want to achieve using the desired software product. Therefore, you just have to focus on your needs, and we will help you make them a reality.</p>
         </div>
 
         <div class="single-faq2">
-          <h3>What pieces do museums not want the public to see?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
-          </p>
+          <h3> What information do you need from me to start work?
+            ?</h3>
+          <p>Share the details of your project – like scope, timeframes, or business challenges you’d like to solve.</p>
         </div>
       </div>
       <div class="col-lg-6">
         <div class="single-faq2">
-          <h3>What should entrepreneurs never do?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
-          </p>
+          <h3>I need an app for iOS and Android. Which platform is better to start with?</h3>
+          <p>Which platform you should choose depends solely on the future application idea as well as its target audience. Each platform has its own monetization model. Apple users spend more money on paid apps and in-app purchases. </p>
+
+          <p>If the goal is direct monetization, then iOS should be chosen. There are more Android users; however, they are less likely to pay for app installation and prefer free applications. The more downloads, the more expensive the advertising is in the application. Android should be chosen if the goal is managing user attention.</p>
+
+            <p>We highly recommend starting with only one platform or building a cross-platform application. This will speed up launching the project, and help to assess its weaknesses and make any necessary changes. This will save you money and time.</p>
         </div>
 
         <div class="single-faq2">
-          <h3>Are you too poor to start a business?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
-          </p>
+          <h3>What methodologies do you use in your work?</h3>
+          <p>The main methodology we use in our work is Agile, although the choice may depend on a particular project. An iterative approach to the work on the project provides us with the opportunity to regularly improve the product quality, and also constant customer feedback.</p>
         </div>
 
         <div class="single-faq2">
-          <h3>Do developers really code from scratch in a hackathon?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
-          </p>
+          <h3>Can you make changes to a product which other developers have already started?</h3>
+          <p>Yes, we can. Our software engineers are well versed in various technologies and will practically always be able to continue the product started by some other team.</p>
         </div>
 
         <div class="single-faq2">
-          <h3>What pieces do museums not want the public to see?</h3>
-          <p>
-            I'm a serial entrepreneur and have started/ran/sold
-            approximately 20 businesses over the past 45 years.Some of my
-            businesses made millions, some of them broke even. But - I never
-            lost a dime on a single one.
-          </p>
+          <h3>How does the project work process take place?</h3>
+          <p>Each project is unique and requires a customized approach, but most of the development stages are relevant to all of them. However, the very process of their implementation may differ somewhat. We recommend you read more about our work processes on our website.</p>
         </div>
       </div>
     </div>

@@ -97,21 +97,24 @@
                   <p>Deployment Strategy</p>
                   <h5>Before going live, we perform some final testing and ensure there are no issues. We outline a plan for transferring the website to the final web server and ensuring that the domain and DNS (Domain Name System) strategy has been managed and set up per the discovery phase's specifications. To transfer a new site, which is typically on the live server prior to launch, we simply send traffic to the server on the 'live date'. Typically, for redesigns, we remove the old code from the live server and deploy the new code. This transition can be completed in just a few minutes with proper planning, minimizing delay.</h5>                 
                 </div>
-
-
+              </div>
+            </div>
+            
+             
+            <div class="col-lg-12" data-aos="fade-up" data-aos-duration="1200">
+              <div class="single-price">
                 <div class="price-heading">
                   <p>Delivery Strategy</p>
                   <h5>As application strategists, we recognize that a quality website is never truly complete. We will typically deploy a project with a backend content management system that allows you to modify the content yourself, but we are always available to assist with future versions and to ensure your success.</h5>                 
                 </div>
               </div>
-            </div>         
+            </div>            
 
           </div>
         </div>
       </div>
     </div>
   </div> 
-  
   <!--=====Pricing end=======-->
 
 
