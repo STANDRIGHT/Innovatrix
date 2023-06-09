@@ -28,7 +28,7 @@
             </p>
             <div class="author-reviews">
               <div class="author">
-                <a href="#"> Kelvin Barth</a>
+                <a href="#">Toheeb Abdul</a>
               </div>
               <div class="review-1">
                 <div class="review">
@@ -58,7 +58,7 @@
             </p>
             <div class="author-reviews">
               <div class="author">
-                <a href="#">Victor Clifford</a>
+                <a href="#">James Williams</a>
               </div>
               <div class="review-1">
                 <div class="review">

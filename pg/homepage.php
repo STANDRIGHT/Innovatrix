@@ -344,7 +344,7 @@
           <div class="testimonial-sliders">
 
             <div class="testimonial-nav ">
-              <div class="single-testimonial-nav">
+              <!-- <div class="single-testimonial-nav">
                 <img src="assets/img/testimonial/author1.jpg" alt="">
               </div>
               <div class="single-testimonial-nav">
@@ -361,7 +361,7 @@
               </div>
               <div class="single-testimonial-nav">
                 <img src="assets/img/testimonial/author3.jpg" alt="">
-              </div>
+              </div> -->
             </div>
 
             <div class="slider-testimonial">              
@@ -369,22 +369,22 @@
                 <h5>“I was exploring online for a nearby web development company when I came across <?= $Company["name"] ?>. I desired an excellent website design for my business, and their work blew me away. Working with <?= $Company["name"]?> has been a delight over the years. These developers are experts at developing incredible websites for every kind of business ”</h5>
                 <div class="author">
                   <a href="testimonial">Mary Dauda</a>
-                  <p>CEO lucasian</p>
+                  <!-- <p>CEO lucasian</p> -->
                 </div>
               </div>
               <div class="single-testimonial">
                 <h5>“Our experience with  <?= $Company["name"] ?> has been outstanding. These individuals have incredible software developers. Before commencement of the project designs, the developers took the time to familiarize themselves with our organization. They collaborated with us on our content with great patience.”</h5>
                 <div class="author">
-                  <a href="testimonial">Kelvin Barth</a>
-                  <p>CEO lucasian</p>
+                  <a href="testimonial">Toheeb Abdul</a>
+                  <!-- <p>CEO lucasian</p> -->
 
                 </div>
               </div>
               <div class="single-testimonial">
                 <h5>“Every time we think back on our collaboration with  <?= $Company["name"] ?>, we are quite satisfied. every detail from the picture shoot to the design thoughts to the creation of the beloved website. Such a fascinating experience, that. Indeed, every business out there needs <?= $Company["name"] ?>.For your needs in web development, we heartily suggest them.”</h5>
                 <div class="author">
-                  <a href="testimonial">Victor Clifford</a>
-                  <p>CEO lucasian</p>
+                  <a href="testimonial">James Williams</a>
+                  <!-- <p>CEO lucasian</p> -->
 
                 </div>
               </div>

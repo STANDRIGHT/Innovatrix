@@ -18,11 +18,11 @@ Location:
 :root {
   --backgound:  #f4f2e7;
   --darken:rgba(34,26,0,1);
-  --radial-dark: linear-gradient(73deg, rgba(34,26,0,1) 40%, rgba(121,108,0,1) 100%);
-  --radial-light: radial-gradient(circle, rgba(165, 150, 86, 0.397) 0%, rgba(255,255,255,0.44861694677871145) 69%);
-  --radial-so-light: radial-gradient(circle, rgba(186,163,66,0.7539390756302521) 0%, rgba(255,255,255,0.44861694677871145) 44%);
+  --radial-dark: linear-gradient(73deg, rgba(34,26,0,1) 40%, rgb(138,101,46)100%);
+  --radial-light: radial-gradient(circle, rgb(180, 172, 159)0%, rgba(255,255,255,0.44861694677871145) 69%);
+  --radial-so-light: radial-gradient(circle, rgb(148, 125, 91)0%, rgba(255,255,255,0.44861694677871145) 44%);
   --light:rgba(223, 217, 188, 0.5);
-  --normal:  rgba(121,108,0,1); 
+  --normal:  rgb(138,101,46); 
   --fallback:rgba(223, 217, 188, 0.5);
 }
 body,
@@ -1363,7 +1363,7 @@ background: radial-gradient(circle, rgba(165, 150, 86, 0.397) 0%, rgba(255,255,2
 
 .bg-13 {
   /* background-color: #e7e8f4; */
-  background-color: #f5f4ec;
+  background-color: #ffffff;
   /* background-color: var(--radial-light); */
   /* background-color: var(--radial-light); */
 
@@ -2565,6 +2565,7 @@ background: radial-gradient(circle, rgba(165, 150, 86, 0.397) 0%, rgba(255,255,2
     opacity: 0;
     background: #F23936;
     background-color:  rgb(112, 106, 48); 
+    background-color: var(--normal);
 
     z-index: -1;
     border-radius: 4px;
@@ -2595,32 +2596,43 @@ background: radial-gradient(circle, rgba(165, 150, 86, 0.397) 0%, rgba(255,255,2
   .header-2 .main-menu ul li a:hover {
     /* color: #FDC24C; */
     color:  rgba(121,108,0,1); 
+    color: var(--normal);
 
   }
   .header-2 li.dropdown-parrent:hover > a {
     /* color: #FDC24C; */
     color:  rgba(121,108,0,1); 
+    color: var(--normal);
+
 
   }
   .header-2 li.dropdown-parrent ul.theme-dropdown li a:after {
     /* background: #FDC24C; */
     color:  rgba(121,108,0,1); 
+    color: var(--normal);
+
 
   }
   .header-2 .quick_contact .quick_contact_icon i {
     color: #243D31;
     color:  rgba(121,108,0,1); 
+    color: var(--normal);
+
 
     
   }
   .header-2 .quick_contact:hover .quick_contact_icon {
     border-color: #243D31;
     color:  rgba(121,108,0,1); 
+    color: var(--normal);
+
 
   }
   .header-2 .quick_contact_content h5:hover, .header-2 .quick_contact_content a:hover {
     color: #243D31;
     color:  rgba(121,108,0,1); 
+    color: var(--normal);
+
 
   }
 }
@@ -4445,7 +4457,8 @@ button.search-icon {
 .theme-btn-2 {
   /* background: #243D31; */
   background:rgba(121,108,0,1);
-
+  /* background-color: rgb(138,101,46); */
+  background-color: var(--normal);
   border-radius: 8px;
   font-weight: 700;
   font-size: 16px;
@@ -6110,6 +6123,7 @@ img.shape-right-bottom {
 
 .pricing2 .single-price.active {
   border: 2px solid rgba(121,108,0,1);
+  border: 2px solid var(--normal);
 }
 .pricing2 .price-heading p {
   font-weight: 700;
@@ -6127,6 +6141,7 @@ img.shape-right-bottom {
 .pricing2 a.price-btn {
   /* background: #243D31; */
   background:rgba(121,108,0,1);
+  background-color: var(--normal);
   box-shadow: 0 4px 25px rgba(36, 61, 49, 0.15);
   transition: all 0.3s;
 }
@@ -6242,7 +6257,6 @@ img.shape-right-bottom {
   height: 80px;
   /* background: #E8FCF6; */
   background:rgb(243, 242, 226);
-
   line-height: 80px;
   text-align: center;
   border-radius: 50%;
@@ -6351,6 +6365,7 @@ img.shape-right-bottom {
 .counter2 .single-counter:hover {
   /* background: #243D31; */
   background:rgba(121,108,0,1);
+  background-color: var(--normal);
   /* background-color: linear-gradient(73deg, rgba(34,26,0,1) 40%, rgba(121,108,0,1) 100%); */
   transition: all 0.3s;
 }
@@ -7498,6 +7513,7 @@ img.contact-shape1 {
   padding: 12px 20px;
   /* background: #FDC24C; */
   background:rgba(121,108,0,1);
+  background-color: var(--normal);
 
   transition: all 0.3s;
 }

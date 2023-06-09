@@ -72,7 +72,7 @@
         <p><?= $Company["name"] ?> has a crew of skilled, enthusiastic web designers and developers. Our mission is to assist businesses and organizations in achieving online success by developing professional and efficient websites.</p>
 
 
-        <a class="theme-btn-3" href="contact" style="color:white; background-color:rgba(121,108,0,1);">Contact Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
+        <a class="theme-btn-3" href="contact" style="color:white; background-color:rgb(148, 125, 91);">Contact Us <span><i class="fa-solid fa-arrow-right"></i></span></a>
 
         <div class="space30"></div>
 

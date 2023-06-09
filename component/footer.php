@@ -71,7 +71,7 @@
           <p>© 2021 <?= $Company["name"] ?>. All Rights Reserved.</p>
         </div>
         <div class="col-lg-6 text-right">
-          <div class="social social2">
+          <!-- <div class="social social2">
             <ul>
               <li><a data-bs-toggle="tooltip" title="Linked in" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
               </li>
@@ -79,7 +79,7 @@
               <li><a data-bs-toggle="tooltip" title="Instagram" href="#"><i class="fa-brands fa-instagram"></i></a></li>
               <li><a data-bs-toggle="tooltip" title="TikTok" href="#"><i class="fa-brands fa-tiktok"></i></a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

@@ -120,13 +120,15 @@
               <h6>Program Manager</h6>
               <div class="space10"></div>
               <!-- <p>Key Highlights</p>   -->
-              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt=""> Plan, develop, implement and direct the organization’s operational and fiscal function and performance.</p>   
+              <!-- <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt=""> Plan, develop, implement and direct the organization’s operational and fiscal function and performance.</p>   
 
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Act as a strategic partner by developing and implementing the company’s plans and programs.</p>
               
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Communicate effectively and establish credibility throughout the organization and with the Board of Directors as an effective developer of solutions to business challenges.</p>
 
-              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Executive Presence and ability maintain calm demeanor in high stress environments.</p>
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Executive Presence and ability maintain calm demeanor in high stress environments.</p> -->
+                            <a class="theme-btn-5"  id="drop" href="contact">Contact Us </a>
+
             </div>
           </div>
         </div>
@@ -150,14 +152,14 @@
               <h6>Chief Technical Officer</h6>
               <div class="space10"></div>
               <!-- <p>Key Highlights</p>   -->
-              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Controlling and evaluating IT and electronic data operations Managing IT staff</p>   
+              <!-- <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Controlling and evaluating IT and electronic data operations Managing IT staff</p>   
 
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Design, develop, implement and coordinate systems, policies and procedures.</p>
               
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt=""> collaborate closely with staff members every day to monitor all the projects they perform and identify any potential areas for improvement.</p>
 
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Highly organized and detail-oriented and Excellent analytical and problem-solving skills.</p>
-              <div class="space10"></div>
+              <div class="space10"></div> -->
 
               <a class="theme-btn-5"  id="drop" href="contact">Contact Us </a>
 
@@ -184,11 +186,11 @@
               <h6>Project Manager</h6>
               <div class="space10"></div>
               <!-- <p>Key Highlights</p>   -->
-              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Develop training materials and performance management programs to help ensure employees understand their job responsibilities</p>   
+              <!-- <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Develop training materials and performance management programs to help ensure employees understand their job responsibilities</p>   
 
               <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Maintain company organization charts and employee directory and Partner with management to ensure strategic HR goals are aligned with business initiatives.</p>
               
-              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Ensure job descriptions are up to date and compliant companies and clients agreed regulations</p>
+              <p style="text-align:left; padding-inline:20px;"><img src="assets/img/icons/good.png" alt="">Ensure job descriptions are up to date and compliant companies and clients agreed regulations</p> -->
              
               <div class="space10"></div>
 
@@ -218,18 +220,8 @@
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Linked in" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Facebook" href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Instagram" href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="TikTok" href="#"><i class="fa-brands fa-tiktok"></i></a>
-                  </li>
+                <a class="theme-btn-5"  id="drop" href="contact">Contact Us </a>
+
                 </ul>
               </div>
             </div>
@@ -244,30 +236,20 @@
               <img src="assets/img/innovatrix-team/clifford.jpeg" alt="" />
             </div>
             <div class="team-content bg-18">
-              <h5>cliford standright</h5>
+              <h5>Cliford Standright</h5>
               <h6>LAMP stack Developer</h6>              
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
-              <h5>cliford standright</h5>
+              <h5>Cliford Standright</h5>
               <h6>LAMP stack Developer</h6>   
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Linked in" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Facebook" href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Instagram" href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="TikTok" href="#"><i class="fa-brands fa-tiktok"></i></a>
-                  </li>
+                <a class="theme-btn-5"  id="drop" href="contact">Contact Us </a>
+
                 </ul>
               </div>
             </div>
@@ -279,33 +261,23 @@
         <div class="single-team">
           <div class="team-sides team-font-side">
             <div class="team-img">
-              <img src="assets/img/innovatrix-team/clifford.jpeg" alt="" />
+              <img src="assets/img/innovatrix-team/kelvin.jpg" alt="" />
             </div>
             <div class="team-content bg-18">
               <h5>Kelvin Enwerem</h5>
-              <h6>MEAN stack Developer</h6>                 
+              <h6>MERN stack Developer</h6>                 
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>Kelvin Enwerem</h5>
-              <h6>MEAN stack Developer</h6>   
+              <h6>MERN stack Developer</h6>   
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Linked in" href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Facebook" href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="Instagram" href="#"><i class="fa-brands fa-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a data-bs-toggle="tooltip" title="TikTok" href="#"><i class="fa-brands fa-tiktok"></i></a>
-                  </li>
+                <a class="theme-btn-5"  id="drop" href="contact">Contact Us </a>
+
                 </ul>
               </div>
             </div>
@@ -329,7 +301,7 @@
 
 <!--=====Counter start=======-->
 <div class="counter-4 inner-counter-4 inner-font-1 section-padding" style="
-        background-color:rgba(121,108,0,1)  ;
+        background-color:rgb(148, 125, 91)  ;
         /* background: url(assets/img/bg/bg-12.png) no-repeat; */
         background-position: center;
         background-size: cover;
