@@ -1,6 +1,6 @@
 
 #htaccess for 404page
- ErrorDocument 404 http://localhost/JAMASOFT/INNOVATRIX/404.php
+ ErrorDocument 404 https://preview.jamaconcept.com/innovatrix/404.php
 
 
 
