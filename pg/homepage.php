@@ -21,7 +21,7 @@
             <div class="space80"></div>
             <div class="logo-area2" data-aos="fade-right" data-aos-duration="1400">
               <p>  We are a software development and IT consulting digital agency, that assist companies all around the world in utilizing full-cycle software development services to differentiate themselves from their competition.</p>
-              <div class="logos logos2 owl-carousel">
+              <!-- <div class="logos logos2 owl-carousel">
                 <div class="single-logo">
                   <img src="assets/img/logo/logo21.png" alt="">
                 </div>
@@ -37,7 +37,7 @@
                 <div class="single-logo">
                   <img src="assets/img/logo/logo25.png" alt="">
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
