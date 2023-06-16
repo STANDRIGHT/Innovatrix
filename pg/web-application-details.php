@@ -219,7 +219,7 @@
               </div>
 
               <div class="recent-img">
-                <img src="assets/img/Services/service45.jpg" alt="" />
+                <img src="assets/img/Services/service45-min.jpg" alt="ui-ux" />
               </div>
             </div>
           </div>

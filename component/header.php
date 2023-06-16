@@ -4,7 +4,7 @@
     <div class="col-12">
       <div class="mobile-header-elements">
         <div class="mobile-logo">
-          <a href="index"><img src="assets/img/logo/new.jpg" alt="" /></a>
+          <a href="index"><img src="assets/img/logo/new.png" alt="" /></a>
         </div>
         <div class="mobile-nav-icon">
           <i class="fa-solid fa-bars"></i>
@@ -93,7 +93,7 @@
           <div class="header-elements">
             <div class="header_menu_area">
               <div class="logo">
-                <a href="index"><img src="assets/img/logo/new.jpg" alt=""></a>
+                <a href="index"><img src="assets/img/logo/new.png" alt=""></a>
               </div>
               <div class="main-menu">
                 <div class="menu-wrap">

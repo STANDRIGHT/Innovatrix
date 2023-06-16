@@ -21,7 +21,7 @@
       </div>
       <div class="col-lg-6 mobile-hidden">
         <div class="about-bg-main-img position-relative ml50">
-          <img class="border-radius" src="assets/img/services/service45.jpg" alt="ux/ui-image" />
+          <img class="border-radius" src="assets/img/services/service45-min.jpg" alt="ux/ui-image" />
           <div class="corner-right-bottom-shape2 position-absolute">
             <img src="assets/img/shapes/shape-right-bottom2.png" alt="" />
           </div>

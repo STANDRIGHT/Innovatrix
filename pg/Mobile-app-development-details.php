@@ -200,7 +200,7 @@
               </div>
 
               <div class="recent-img">
-                <img src="assets/img/Services/service45.jpg" alt="" />
+                <img src="assets/img/Services/service45-min.jpg" alt="" />
               </div>
             </div>
           </div>

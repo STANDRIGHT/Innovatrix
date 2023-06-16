@@ -1,6 +1,8 @@
 
 
   <!--=====Welcome start=======-->
+  <div class="space40"></div>
+
   <div class="welcome-area welcome-2 bg5 position-relative" id="home">
     <div class="container">
       <div class="row align-items-center">
@@ -42,7 +44,7 @@
         <div class="col-lg-6 d-none d-lg-block">
           <div class="hero-img-elements" data-aos="zoom-out" data-aos-duration="800">
             <div class="hero-main-img position-relative top-right-polygon-1">
-              <img class="border-radius" src="assets/img/innovatrix/10.jpg" alt="">
+              <img class="border-radius" src="assets/img/innovatrix/10-min.jpg" alt="">
               <div class="corner-shape2 position-absolute">
                 <img src="assets/img/shapes/tax-shape1.png" alt="">
               </div>
@@ -82,7 +84,7 @@
         <div class="col-md-6" data-aos="fade-up" data-aos-duration="600">
           <div class="single-business trans-1">
             <div class="business-icon">
-              <img src="assets/img/innovatrix-svg/design.png" alt="">
+              <img src="assets/img/innovatrix-svg/design.png" alt="innovatrix">
             </div>
             <h3>Discovery & Design</h3>
             <p>We Discuss with you,understand your needs and market, then bring your ideas to Life.</p>
@@ -121,7 +123,7 @@
         </div>
         <div class="space20"></div>
         <div class="col-12 text-center" data-aos="fade-up" data-aos-duration="1400">
-          <a class="theme-btn-3" href="service">Explore More Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <a class="theme-btn-3" href="working-strategy">Explore More Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
     </div>
@@ -138,7 +140,7 @@
         <div class="col-lg-6">
           <div class="about-bg-21 mr50" data-aos="zoom-out" data-aos-duration="800">
             <div class="about-bg-main-img position-relative top-left-polygon-1">
-              <img src="assets/img/innovatrix/21.jpg" alt="">
+              <img src="assets/img/innovatrix/21-min.jpg" alt="">
               <div class="corner-right-bottom-shape2 position-absolute">
                 <img src="assets/img/shapes/shape-right-bottom2.png" alt="">
               </div>
@@ -275,7 +277,7 @@
         <div class="col-lg-4" data-aos="fade-up" data-aos-duration="600">
           <div class="single-blog blog-md ">
             <div class="blog-img">
-              <img src="assets/img/innovatrix/23.jpg" alt="">
+              <img src="assets/img/innovatrix/23-min.jpg" alt="">
             </div>
             <div class="blog-contents">
               <ul class="blog-tags">
@@ -289,7 +291,7 @@
         <div class="col-lg-4" data-aos="fade-up" data-aos-duration="800">
           <div class="single-blog blog-md">
             <div class="blog-img">
-            <img src="assets/img/innovatrix/24.jpg" alt="">
+            <img src="assets/img/innovatrix/24-min.jpg" alt="">
             </div>
             <div class="blog-contents">
               <ul class="blog-tags">
@@ -304,7 +306,7 @@
         <div class="col-lg-4" data-aos="fade-up" data-aos-duration="1000">
           <div class="single-blog blog-md">
             <div class="blog-img">
-            <img src="assets/img/innovatrix/9.jpg" alt="">
+            <img src="assets/img/innovatrix/9-min.jpg" alt="">
             </div>
             <div class="blog-contents">
               <ul class="blog-tags">

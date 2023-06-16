@@ -42,7 +42,7 @@
             <br><br>A User Interface is a point of interaction and a means of communication between a person and system. Interfaces are a mere subset of the greater User Experience. <?= $Company["name"]; ?> uses industry-best practices for both UX and UI and has developed a set of internal tools to help apply them to clients' projects.
           </p>
           <div class="single-blog-img">
-            <img src="assets/img/services/ux3.jpg" alt="" />
+            <img src="assets/img/services/ux3-min.jpg" alt="" />
           </div>
 
           <div class="space40"></div>
@@ -211,7 +211,7 @@
               </div>
 
               <div class="recent-img">
-                <img src="assets/img/Services/service45.jpg" alt="" />
+                <img src="assets/img/Services/service45-min.jpg" alt="ui-ux" />
               </div>
             </div>
           </div>

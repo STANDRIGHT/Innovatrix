@@ -34,7 +34,7 @@
       </div>
       <div class="col-lg-6">
         <div class="about-bg-main-img position-relative ml50">
-          <img src="assets/img/innovatrix/31.jpg" alt="innovatrix" />
+          <img src="assets/img/innovatrix/31-min.jpg" alt="innovatrix" />
           <div class="corner-right-bottom-shape2 position-absolute">
             <img src="assets/img/shapes/shape-right-bottom2.png" alt="" />
           </div>
@@ -52,7 +52,7 @@
       <div class="col-lg-6">
         <div class="about-bg-main-img position-relative mr50">
           <!-- <img src="assets/img/innovatrix/34.jpg" alt="innovatrix" /> -->
-          <img src="assets/img/innovatrix-team/dera.jpeg" alt="" style="transform: scaleX(-1);"/>
+          <img src="assets/img/innovatrix-team/dera-min.jpeg" alt="" style="transform: scaleX(-1);"/>
 
           <div class="corner-right-bottom-shape2 position-absolute">
             <img src="assets/img/shapes/shape-right-bottom2.png" alt="" />
@@ -106,7 +106,7 @@
         <div class="single-team">
           <div class="team-sides team-font-side">
             <div class="team-img">
-              <img src="assets/img/innovatrix-team/jerry.jpg" alt="" />
+              <img src="assets/img/innovatrix-team/jerry-min.jpg" alt="" />
             </div>
             <div class="team-content bg-18">
               <h5>Jerry Chukwudi</h5>
@@ -138,7 +138,7 @@
         <div class="single-team">
           <div class="team-sides team-font-side">
             <div class="team-img">
-              <img src="assets/img/innovatrix-team/divine.jpg" alt="" />
+              <img src="assets/img/innovatrix-team/divine-min.jpg" alt="" />
             </div>
             <div class="team-content bg-18">
               <h5>Divine Diamond</h5>
@@ -172,7 +172,7 @@
         <div class="single-team">
           <div class="team-sides team-font-side">
             <div class="team-img">
-              <img src="assets/img/innovatrix-team/dera.jpeg" alt="" />
+              <img src="assets/img/innovatrix-team/dera-min.jpeg" alt="" />
             </div>
             <div class="team-content bg-18">
               <h5>Udenze Chidera Lilian</h5>
@@ -205,7 +205,7 @@
         <div class="single-team">
           <div class="team-sides team-font-side">
             <div class="team-img">
-              <img src="assets/img/innovatrix-team/victor.jpg" alt="" />
+              <img src="assets/img/innovatrix-team/victor-min.jpg" alt="" />
             </div>
             <div class="team-content bg-18">
               <h5>Victor Ifeanyi</h5>
@@ -233,18 +233,18 @@
         <div class="single-team">
           <div class="team-sides team-font-side">
             <div class="team-img">
-              <img src="assets/img/innovatrix-team/clifford.jpeg" alt="" />
+              <img src="assets/img/innovatrix-team/clifford-min.jpeg" alt="" />
             </div>
             <div class="team-content bg-18">
               <h5>Cliford Standright</h5>
-              <h6>LAMP stack Developer</h6>              
+              <h6>Software Developer</h6>              
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>Cliford Standright</h5>
-              <h6>LAMP stack Developer</h6>   
+              <h6>Software Developer</h6>   
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>
@@ -261,18 +261,18 @@
         <div class="single-team">
           <div class="team-sides team-font-side">
             <div class="team-img">
-              <img src="assets/img/innovatrix-team/kelvin.jpg" alt="" />
+              <img src="assets/img/innovatrix-team/kelvin-min.jpg" alt="" />
             </div>
             <div class="team-content bg-18">
               <h5>Kelvin Enwerem</h5>
-              <h6>MERN stack Developer</h6>                 
+              <h6>Software Developer</h6>                 
             </div>
           </div>
 
           <div class="team-sides team-back-side">
             <div class="team-content bg-18">
               <h5>Kelvin Enwerem</h5>
-              <h6>MERN stack Developer</h6>   
+              <h6>Software Developer</h6>   
               <div class="space10"></div>
               <div class="team-socials">
                 <ul>

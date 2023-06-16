@@ -4,6 +4,9 @@
 
 
   <!--=====Pricing start=======-->
+  <div class="space40"></div>
+  <div class="space40"></div>
+  <div class="space40"></div>
 
   <div class="pricing-area pricing2 section-padding2 bg5">
     <div class="container">

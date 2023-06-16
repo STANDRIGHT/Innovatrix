@@ -19,7 +19,7 @@
             <h2>Page not found!</h2>
             <p>
               Sorry, the page you are looking for doesn’t exist or has been
-              moved. Here are some helpful links.
+              moved or you have entered a wrong url, Here are some helpful links.
             </p>
             <div class="space30"></div>
             <a class="theme-btn-11" href="index">Take me home</a>

@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-6">
         <div class="single-footer mr50">
-          <a href="index.html" class="footer-logo"> <img src="assets/img/logo/site-logo-3.svg" alt=""></a>
+          <a href="index.html" class="footer-logo"> <img src="assets/img/logo/new.png" alt=""></a>
           <div class="space20"></div>
           <p>Convinced? Let's create something outstanding together.</p>
           <div class="footer-contact">
